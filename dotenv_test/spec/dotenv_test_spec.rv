@@ -1,0 +1,2 @@
+require '../lib/dotenv_test.rb'  
+require 'pry'
